@@ -78,7 +78,7 @@ export default {
     ],
     env: {
         local: {
-            api: 'http://172.21.3.110:9503/api/v1'
+            api: '' // 配自己的开发环境
 
         },
         prod: {
